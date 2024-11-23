@@ -86,6 +86,7 @@ public class lesson4 {
             System.out.println(" new: " + arr[i]);
         }
         System.out.println();
+        System.out.println();
     }
     public static void massive4() {
         int[] [] table = new int[9][9] ;
